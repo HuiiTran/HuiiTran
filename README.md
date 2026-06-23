@@ -1,7 +1,10 @@
 # Hi, I'm Huy Tran 👋
 
-Software Engineering student passionate about Full-stack Development,
-Mobile Development, and Backend Systems.
+I'm a Software Engineering student passionate about full-stack development, mobile applications, and backend systems. I enjoy building real-world applications that solve practical problems, ranging from expense management apps to microservices systems and game development.
+
+My interests include web development, mobile development, distributed systems, and low-level programming. I have experience working with technologies such as React, React Native, Node.js, ASP.NET, PostgreSQL, MongoDB, and C++.
+
+I'm always eager to learn new technologies, improve my software engineering skills, and contribute to meaningful projects.
 
 ## Tech Stack
 - Frontend: React, React Native, TypeScript

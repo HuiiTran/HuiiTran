@@ -1,12 +1,17 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Huy Tran 👋
 
-###
+Software Engineering student passionate about Full-stack Development,
+Mobile Development, and Backend Systems.
 
-<p align="left">My name is Huy Tran Quang and I'm a Software Engineer student, from University of Information Technology (UIT)</p>
+## Tech Stack
+- Frontend: React, React Native, TypeScript
+- Backend: Node.js, Express.js, ASP.NET
+- Database: PostgreSQL, MongoDB
+- Others: RabbitMQ, Docker, Git
 
-###
-
-<h2 align="left">My main goal as a software engineering intern is to really dive in and get some hands-on experience. I'm hoping to become much more comfortable working in a team and actually contributing to real projects.  I'd love to get better – like, really get the hang of it – by working on real-world problems.  Honestly, I'm just excited to learn as much as possible from experienced engineers.</h2>
+## Contact
+- Email: huy.tranquang.com@gmail.com
+- LinkedIn: www.linkedin.com/in/huy-tran-quang-965967337
 
 ###
 
